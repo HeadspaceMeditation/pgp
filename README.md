@@ -1,1 +1,1 @@
-# pgp
+# Ginger.io PGP Public Key
